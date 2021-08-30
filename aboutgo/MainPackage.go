@@ -1,3 +1,5 @@
+// main.go가 아닌 다른 파일들을 실행해서 확인해보려면 파일명을 main.go로 바꾼 후 실행시키기. (go run main.go)
+
 // #1.0 Main Package
 
 // 만약 사용자가 프로젝트를 컴파일하고 싶다면 main.go파일을 만들고 그 안에 package main을 선언해줘야 한다.
