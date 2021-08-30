@@ -1,5 +1,3 @@
-// main.go가 아닌 다른 파일들을 테스트 해보려면 이름을 main.go로 바꾼 후 테스트 해보면 됨.
-
 // #1.1 package and import
 
 package main
